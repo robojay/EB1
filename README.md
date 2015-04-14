@@ -20,7 +20,7 @@ This is still under development and the design definitely contains errors!
 
 **Use at your own risk, and we are not providing ANY user support at this time!**
 
-### Licenses
+### License
 
 This project is licensed as [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/cn/) . **You are free** to read, study, modify, redistribute, and create products out of our designs **as long as you** distribute your derivative work under the **same license** **and** **attribute to us** the original design.
 
