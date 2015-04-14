@@ -28,4 +28,4 @@ This project is licensed as [CC-BY-SA 3.0](http://creativecommons.org/licenses/b
 
 ### Attributions / Inspirations
 
-Although the general idea for this project was conceived many years ago, its implementation was greatly assisted by the work of [Adafruit](http://www.adafruit.com) ([Trinket Bootloader](https://github.com/adafruit/Adafruit-Trinket-Gemma-Bootloader), [Trinket](https://learn.adafruit.com/introducing-trinket/introduction)), [Digispark](http://digistump.com/products/1 Digispark), [MIT high-low tech](http://highlowtech.org), and all the other folks who have developed/contributed to USB implementation on the Atmel ATtiny processors.
+Although the general idea for this project was conceived many years ago, its implementation was greatly assisted by the work of [Adafruit](http://www.adafruit.com) ([Trinket Bootloader](https://github.com/adafruit/Adafruit-Trinket-Gemma-Bootloader), [Trinket](https://learn.adafruit.com/introducing-trinket/introduction)), [Digispark](http://digistump.com/products/1), [MIT high-low tech](http://highlowtech.org), and all the other folks who have developed/contributed to USB implementation on the Atmel ATtiny processors.
