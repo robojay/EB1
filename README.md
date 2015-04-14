@@ -1,4 +1,4 @@
-# EB1 电脑一号：A self-contained learning platform.
+## EB1 电脑一号：A self-contained learning platform.
 
 The Electric Brain 1 (EB1) 电脑一号 is a simple yet surprisingly capable microprocessor and electronics learning tool.
 
@@ -14,18 +14,18 @@ Wiki: [EB1 电脑一号](http://www.samuraicircuits.com/MediaWiki/index.php?titl
 
 ----
 
-## Please note:
+### Please note:
 
 This is still under development and the design definitely contains errors!  
 
 **Use at your own risk, and we are not providing ANY user support at this time!**
 
-## Licenses
+### Licenses
 
 This project is licensed as [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/cn/) . **You are free** to read, study, modify, redistribute, and create products out of our designs **as long as you** distribute your derivative work under the **same license** **and** **attribute to us** the original design.
 
 [Creative Commons 3.0 Attribution, Sharealike](http://creativecommons.org/licenses/by-sa/3.0/cn/)
 
-## Attributions / Inspirations
+### Attributions / Inspirations
 
 Although the general idea for this project was conceived many years ago, its implementation was greatly assisted by the work of [Adafruit](http://www.adafruit.com) ([Trinket Bootloader](https://github.com/adafruit/Adafruit-Trinket-Gemma-Bootloader), [Trinket](https://learn.adafruit.com/introducing-trinket/introduction)), [Digispark](http://digistump.com/products/1 Digispark), [MIT high-low tech](http://highlowtech.org), and all the other folks who have developed/contributed to USB implementation on the Atmel ATtiny processors.
